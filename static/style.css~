@@ -1,0 +1,85 @@
+body {
+font: 16px/1.62 "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
+color: #333;
+margin: 0;
+}
+h1, h2, h3, h4, h5, h6, strong, em {
+font-family: "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
+}
+h1 {
+margin: 0;
+padding: .5em;
+background: #ddd;
+border-bottom: .1em solid #aaa;
+}
+h1 a {
+text-decoration: none;
+color: #333;
+}
+h2 {
+margin: 0;
+padding: .5em;
+}
+h2 input {
+border: .1em solid #aaa;
+font-size: 1em;
+width: 80%;
+}
+div.field {padding: 1em}
+div.field label {
+font-size: 1.5em;
+display: block;
+}
+textarea {
+width: 90%;
+border: .2em solid #aaa;
+font-size: 1.2em;
+line-height: 1.5em;
+height: 10em;
+}
+.columns {
+letter-spacing: -.45em;
+}
+.columns .left, .columns .right {
+display: inline-block;
+letter-spacing: normal;
+min-height: 20em;
+vertical-align: top;
+}
+.columns .left {
+width: 30%;
+border-right: .2em solid #aaa;
+}
+.columns .right {
+width: 69%;
+border-left: .2em solid #aaa;
+}
+.content {
+padding: .5em 1em;
+}
+.button {
+display: inline-block;
+border: .1em solid #ddd;
+background: #eee;
+border-radius: .4em;
+padding: .5em 1em;
+margin: .5em;
+color: #333;
+text-decoration:none;
+}
+.button:hover {
+background: #999;
+}
+.left a.button {
+width: 80%;
+text-align: center;
+}
+.list {
+list-style: none;
+padding: 0 .8em;
+}
+.list a {
+display: inline-block;
+text-decoration: none;
+color: #333;
+}
