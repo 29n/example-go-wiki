@@ -1,13 +1,5 @@
 # 如何基于Go创建数据库驱动的Web应用
 
-- url_title: how-to-write-database-driven-web-application-using-go
-- date: 2012-11-19 19:45:50
-- update: 2012-11-19 19:46:50
-- public: true
-- tags: Wiki, Golang, Go, Web Application, Programming, Database, MySQL
-- category: tech
-- summary: 本文将尝试前着去介绍如何使用 kview/kasia.go 以及 MyMySQL 基于Go语言开发一个小型的简单的数据库驱动的Web应用，就像大家做的一样，我们来开发一个小型的维基系统。
-
 ----------------------------------------------------------------------
 
 > 本文原文为[How to write database-driven Web application using Go](https://github.com/ziutek/simple_go_wiki)的 *README.md* 文件，如果您想查看本文的原文，请点击前面的英文原文标题，找到该项目的 *README.md* 文件即可，格式为 *MarkDown*，如果你需要HTML版本的，可能还需要自己安装MarkDown相关的工具。
@@ -690,6 +682,6 @@
 
 ## 应用运行截图
 
-![Go Wiki 首页](/examples/go-wiki/front.png)
+![Go Wiki 首页](http://cox.im/examples/go-wiki/front.png)
 
-![Go Wiki 编辑页](/examples/go-wiki/edit.png)
+![Go Wiki 编辑页](http://cox.im/examples/go-wiki/edit.png)
